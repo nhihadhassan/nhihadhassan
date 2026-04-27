@@ -1,0 +1,19 @@
+{
+  "id": "unit-4",
+  "title": "Basic Questions",
+  "unitNumber": 4,
+  "lessons": [
+    {
+      "id": "lesson-4-questions-core",
+      "title": "Lesson 4: Questions",
+      "difficulty": "easy",
+      "vocabulary": [
+        {"id": "v1", "bengaliRomanized": "kothay", "englishMeaning": "where", "pronunciationHint": "ko-thai", "category": "question"},
+        {"id": "v2", "bengaliRomanized": "kobe", "englishMeaning": "when", "pronunciationHint": "ko-bey", "category": "question"}
+      ],
+      "exercises": [
+        {"id": "e1", "type": "multiple_choice", "prompt": "What does 'kothay' mean?", "correctAnswer": "where", "wrongOptions": ["when", "why", "who"]}
+      ]
+    }
+  ]
+}

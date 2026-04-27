@@ -1,0 +1,19 @@
+{
+  "id": "unit-3",
+  "title": "Food",
+  "unitNumber": 3,
+  "lessons": [
+    {
+      "id": "lesson-3-food-core",
+      "title": "Lesson 3: Food Basics",
+      "difficulty": "easy",
+      "vocabulary": [
+        {"id": "v1", "bengaliRomanized": "bhat", "englishMeaning": "rice", "pronunciationHint": "bhaat", "category": "food"},
+        {"id": "v2", "bengaliRomanized": "pani", "englishMeaning": "water", "pronunciationHint": "paa-nee", "category": "food"}
+      ],
+      "exercises": [
+        {"id": "e1", "type": "translation", "prompt": "Translate: water", "correctAnswer": "pani", "wrongOptions": ["bhat", "cha", "dudh"]}
+      ]
+    }
+  ]
+}

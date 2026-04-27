@@ -1,0 +1,24 @@
+{
+  "id": "unit-1",
+  "title": "Greetings",
+  "unitNumber": 1,
+  "lessons": [
+    {
+      "id": "lesson-1-greetings-core",
+      "title": "Lesson 1: Greetings",
+      "difficulty": "beginner",
+      "vocabulary": [
+        {"id": "v1", "bengaliRomanized": "hello", "englishMeaning": "hello", "pronunciationHint": "heh-lo", "category": "greeting"},
+        {"id": "v2", "bengaliRomanized": "kemon acho", "englishMeaning": "how are you", "pronunciationHint": "keh-mon ah-cho", "category": "greeting"},
+        {"id": "v3", "bengaliRomanized": "ami bhalo achi", "englishMeaning": "I am good", "pronunciationHint": "ah-mee bha-lo ah-chee", "category": "response"},
+        {"id": "v4", "bengaliRomanized": "tomar naam ki", "englishMeaning": "what is your name", "pronunciationHint": "toh-mar naam kee", "category": "question"},
+        {"id": "v5", "bengaliRomanized": "amar naam Rachel", "englishMeaning": "my name is Rachel", "pronunciationHint": "ah-mar naam ray-chel", "category": "response"}
+      ],
+      "exercises": [
+        {"id": "e1", "type": "multiple_choice", "prompt": "What does 'kemon acho' mean?", "correctAnswer": "how are you", "wrongOptions": ["goodbye", "my name is", "thank you"]},
+        {"id": "e2", "type": "translation", "prompt": "Translate: I am good", "correctAnswer": "ami bhalo achi", "wrongOptions": ["kemon acho", "amar naam Rachel", "dhonnobad"]},
+        {"id": "e3", "type": "matching", "prompt": "Match phrase to meaning: tomar naam ki", "correctAnswer": "what is your name", "wrongOptions": ["where are you", "what time is it", "who are you"]}
+      ]
+    }
+  ]
+}
