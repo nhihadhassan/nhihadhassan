@@ -2,16 +2,20 @@
 
 import { useMemo, useState } from "react";
 import type { Lesson } from "@/lib/validators/schemas";
+import { calculateXp } from "@/lib/scoring/xp";
+
+type QuizState = "active" | "completed";
 
 export function QuizSession({ lesson }: { lesson: Lesson }) {
   const [index, setIndex] = useState(0);
   const [score, setScore] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
+  const [state, setState] = useState<QuizState>("active");
 
   const question = lesson.exercises[index];
   const options = useMemo(() => {
     const values = [question.correctAnswer, ...question.wrongOptions];
-    return values.sort();
+    return [...values].sort((a, b) => a.localeCompare(b));
   }, [question]);
 
   function submit(answer: string) {
@@ -25,7 +29,21 @@ export function QuizSession({ lesson }: { lesson: Lesson }) {
     if (index < lesson.exercises.length - 1) {
       setIndex((value) => value + 1);
       setSelected(null);
+      return;
     }
+
+    setState("completed");
+  }
+
+  if (state === "completed") {
+    return (
+      <div className="space-y-4 rounded border border-emerald-200 bg-emerald-50 p-4">
+        <h2 className="text-xl font-semibold">Nice work 🎉</h2>
+        <p>
+          You scored {score}/{lesson.exercises.length} and earned {calculateXp(score)} XP.
+        </p>
+      </div>
+    );
   }
 
   return (
@@ -53,7 +71,7 @@ export function QuizSession({ lesson }: { lesson: Lesson }) {
       <div className="flex items-center justify-between">
         <p className="text-sm">Score: {score}</p>
         <button className="rounded bg-indigo-600 px-3 py-2 text-white" onClick={next} disabled={!selected}>
-          Next
+          {index < lesson.exercises.length - 1 ? "Next" : "Finish"}
         </button>
       </div>
     </div>

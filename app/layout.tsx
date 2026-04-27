@@ -1,13 +1,14 @@
 import "./globals.css";
 import type { Metadata } from "next";
 import Link from "next/link";
+import type { ReactNode } from "react";
 
 export const metadata: Metadata = {
   title: "Learn Bengali for Rachel",
   description: "Conversation-first Bengali lessons in English letters"
 };
 
-export default function RootLayout({ children }: { children: React.ReactNode }) {
+export default function RootLayout({ children }: { children: ReactNode }) {
   return (
     <html lang="en">
       <body>
