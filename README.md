@@ -1,5 +1,9 @@
 ## Hi there, I'm Nhihad 👋
 
+![Open to Work](https://img.shields.io/badge/Open_to_Work-Data%2FBI_%26_Finance_Analyst-2ea44f?style=flat-square)
+![Location](https://img.shields.io/badge/Toronto-GTA-555?style=flat-square)
+![Certified](https://img.shields.io/badge/Microsoft-DP--900-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
 I'm a **finance and data analyst** based in Toronto, with ~2.5 years in treasury operations
 and a **Bachelor of Commerce from Toronto Metropolitan University**. I work at the intersection
 of **finance, data, and process improvement** — turning messy data into clear, reliable
