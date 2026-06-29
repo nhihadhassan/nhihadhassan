@@ -1,46 +1,52 @@
 ## Hi there, I'm Nhihad 👋
 
-I work at the intersection of **finance, technology, and problem-solving**. What started as
-building Excel models in school grew into a career in treasury operations, reconciliations,
-and financial reporting in fast-moving, regulated environments — and a habit of building
-software to make that work faster and clearer.
+I'm a **finance and data analyst** based in Toronto, with ~2.5 years in treasury operations
+and a **Bachelor of Commerce from Toronto Metropolitan University**. I work at the intersection
+of **finance, data, and process improvement** — turning messy data into clear, reliable
+reporting and automating the repetitive parts along the way.
 
-Most recently a **Treasury Analyst at Questrade**, I worked with the Kyriba Treasury Management
-System alongside SQL, Power BI, and Excel to manage cash, monitor liquidity, and build
-reports that help leadership make decisions with confidence. I enjoy spotting inefficiencies,
-automating the repetitive parts, and simplifying complex data so it's easy for others to act on.
+> 🔭 **Currently open to new opportunities** — Data / BI Analyst, Treasury Reporting & Analytics,
+> and Finance Analyst roles. Actively upskilling during my search (details below).
 
-> 🔭 **I'm currently open to new opportunities** in treasury, fintech, and analytics.
+### Experience
 
-### What I've done
+**Questrade — Treasury Associate** *(~2.5 years, through May 2026)*
+- Ran treasury operations and reporting on the **Kyriba** Treasury Management System
+- Built and maintained reporting workflows in **Excel** and **Power BI**
+- Process improvement: cut time on a recurring workflow by **~20%**
 
-Across roles at **Questrade, BMO, and Canadian Tire**, I've:
+**BMO — Program Coordinator / Financial Analyst Intern**
+- Built **VBA automation** that delivered a critical, high-pressure deadline
+- Financial analysis and cross-team coordination
 
-- Managed end-to-end reporting cycles for liquidity and compliance deliverables
-- Automated recurring reports in Power BI and Excel, cutting turnaround times
-- Partnered with Finance, Compliance, Product, and IT to improve workflows
-- Supported audits and risk management through stronger reporting controls
+**Canadian Tire** — earlier finance experience
 
-Colleagues often describe me as the go-to person for making the numbers make sense.
+### Skills & tools
 
-### What I'm building
+- **Core:** Excel (advanced — VBA & macros) · Power BI · SQL · Kyriba TMS
+- **Growing:** Python (relearning — `pandas` & Excel automation) · TypeScript / React
+- **Certified:** Microsoft **DP-900** — Azure Data Fundamentals
+- **Currently studying:** cloud & security governance — CCSK, NIST SP 800, COBIT, PCI DSS, SOC 2 (SC-200 next)
 
-Outside of treasury work, I build full-stack apps to sharpen my engineering — increasingly at
-the fintech edge of my day job:
+### Projects I build to stay sharp
+
+I build small full-stack apps to practise data wrangling, automation, and product thinking:
 
 | Project | What it is |
 |---------|-----------|
-| 💸 [**Expense Tracker**](https://github.com/nhihadhassan/expense-tracker) | Local-first personal-finance dashboard that parses bank/credit-card statement PDFs (Scotiabank, BMO, Tangerine, Amex), reconciles them, and surfaces budgets, recurring charges, and anomalies. *Python · Supabase · Chart.js* |
-| 🗺️ [**GeoMaster**](https://github.com/nhihadhassan/geoMaster) | An interactive, map-first geography learning game. *Next.js · TypeScript · Mapbox · Fuse.js* |
+| 💸 [**Expense Tracker**](https://github.com/nhihadhassan/expense-tracker) | A Python tool that parses bank/credit-card statement PDFs (Scotiabank, BMO, Tangerine, Amex), reconciles them, and builds a budgeting dashboard with recurring-charge and anomaly detection. *Python · Supabase · Chart.js* |
+| 🗺️ [**GeoMaster**](https://github.com/nhihadhassan/geoMaster) | An interactive, map-first geography learning game. *Next.js · TypeScript · Mapbox* |
 | 🧭 [**Itinerary Mate**](https://github.com/nhihadhassan/itinerary-mate) | A multi-trip travel planner with multi-currency budgeting and offline support. *Vite · React · TypeScript* |
-| 📷 [**Photography Platform**](https://github.com/nhihadhassan/nhihad-hassan-photography) | A full-stack photography business site: client galleries, booking, invoicing, and an admin dashboard. *Next.js · Supabase · S3* |
+| 📷 [**Photography Site**](https://github.com/nhihadhassan/nhihad-hassan-photography) | The website behind my photography side project — client galleries, booking, and an admin dashboard. *Next.js · Supabase* |
 
-### Tools I work with
+### Outside of work
 
-`SQL` · `Python` · `Power BI` · `Excel` · `TypeScript / React` · `Next.js` · `Supabase` · `Kyriba` · `English & French`
+**Nhihad Hassan Photography** — event, nightlife, lifestyle, and portrait photography in the
+Toronto/GTA area. A growing side project, structured with its own brand, pricing, and a
+Next.js/Supabase site in development.
+🔗 [nhihadhassanphotography.mypixieset.com](https://nhihadhassanphotography.mypixieset.com/)
 
 ### Let's connect
 
-I'm always open to talking about **treasury, fintech, analytics, or process automation** —
-and how technology can reshape finance for the better. Outside of work, I'm a photographer:
-🔗 [nhihadhassanphotography.mypixieset.com](https://nhihadhassanphotography.mypixieset.com/)
+I'm always glad to talk about **data, treasury, analytics, and finance roles** — and how good
+reporting and automation make teams faster. Feel free to reach out.
