@@ -5,10 +5,12 @@ building Excel models in school grew into a career in treasury operations, recon
 and financial reporting in fast-moving, regulated environments — and a habit of building
 software to make that work faster and clearer.
 
-I'm currently a **Treasury Analyst at Questrade**, where I use the Kyriba Treasury Management
+Most recently a **Treasury Analyst at Questrade**, I worked with the Kyriba Treasury Management
 System alongside SQL, Power BI, and Excel to manage cash, monitor liquidity, and build
 reports that help leadership make decisions with confidence. I enjoy spotting inefficiencies,
 automating the repetitive parts, and simplifying complex data so it's easy for others to act on.
+
+> 🔭 **I'm currently open to new opportunities** in treasury, fintech, and analytics.
 
 ### What I've done
 
