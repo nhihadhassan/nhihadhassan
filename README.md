@@ -39,9 +39,17 @@ I build small full-stack apps to practise data wrangling, automation, and produc
 | Project | What it is |
 |---------|-----------|
 | 💸 [**Expense Tracker**](https://github.com/nhihadhassan/expense-tracker) | A Python tool that parses bank/credit-card statement PDFs (Scotiabank, BMO, Tangerine, Amex), reconciles them, and builds a budgeting dashboard with recurring-charge and anomaly detection. *Python · Supabase · Chart.js* |
+| 🧮 [**Splitwiser**](https://github.com/nhihadhassan/Splitwiser) | A full Splitwise clone — expense splitting (equal/exact/%/shares), group & friend balances, settle-up, and a debt-simplification algorithm with exact integer-cent math. *React · TypeScript · Vite* |
 | 🗺️ [**GeoMaster**](https://github.com/nhihadhassan/geoMaster) | An interactive, map-first geography learning game. *Next.js · TypeScript · Mapbox* |
 | 🧭 [**Itinerary Mate**](https://github.com/nhihadhassan/itinerary-mate) | A multi-trip travel planner with multi-currency budgeting and offline support. *Vite · React · TypeScript* |
 | 📷 [**Photography Site**](https://github.com/nhihadhassan/nhihad-hassan-photography) | The website behind my photography side project — client galleries, booking, and an admin dashboard. *Next.js · Supabase* |
+
+I also build small **local-first productivity & finance tools** (no backend, data stays in your
+browser): [InvoiceDesk](https://github.com/nhihadhassan/invoicedesk) (freelance ledger),
+[Renewly](https://github.com/nhihadhassan/renewly) (subscription tracker),
+[PantryPilot](https://github.com/nhihadhassan/pantrypilot),
+[TripKit](https://github.com/nhihadhassan/tripkit), and
+[HearthPlan](https://github.com/nhihadhassan/hearthplan).
 
 ### Outside of work
 
