@@ -42,7 +42,10 @@ I build small full-stack apps to practise data wrangling, automation, and produc
 | 🧮 [**Splitwiser**](https://github.com/nhihadhassan/Splitwiser) | A full Splitwise clone — expense splitting (equal/exact/%/shares), group & friend balances, settle-up, and a debt-simplification algorithm with exact integer-cent math. *React · TypeScript · Vite* |
 | 🗺️ [**GeoMaster**](https://github.com/nhihadhassan/geoMaster) | An interactive, map-first geography learning game. *Next.js · TypeScript · Mapbox* |
 | 🧭 [**Itinerary Mate**](https://github.com/nhihadhassan/itinerary-mate) | A multi-trip travel planner with multi-currency budgeting and offline support. *Vite · React · TypeScript* |
-| 📷 [**Photography Site**](https://github.com/nhihadhassan/nhihad-hassan-photography) | The website behind my photography side project — client galleries, booking, and an admin dashboard. *Next.js · Supabase* |
+| 🎬 [**Nitrate**](https://github.com/nhihadhassan/nitrate) | A social film diary with self-running Movie Clubs — everyone submits a film each week, a random wheel picks one, and the group gets emailed what they're watching. *Next.js 15 · Drizzle · Postgres* |
+| 🎧 [**Spotlistr**](https://github.com/nhihadhassan/spotlistr) | Turns a tracklist from anywhere — YouTube, text, CSV — into a Spotify playlist, scoring confidence on every match before it creates anything. *Next.js · TypeScript · Spotify API* |
+| 🗣️ [**Learning Platform**](https://github.com/nhihadhassan/learn-bengali-for-rachel) | A Duolingo-style multi-course learning app (Bengali, Spanish, Malayalam, History) with generated exercises, spaced repetition, and an offline PWA. *Next.js 16 · React 19* |
+| 📷 [**Photography Site**](https://nhihad-hassan-photography.vercel.app) | The website behind my photography side project — client galleries, booking, invoicing, and an admin dashboard. Private repo. *Next.js · Supabase · AWS S3* |
 
 I also build small **local-first productivity & finance tools** (no backend, data stays in your
 browser): [InvoiceDesk](https://github.com/nhihadhassan/invoicedesk) (freelance ledger),
